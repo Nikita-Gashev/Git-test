@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Первый коммит");
         System.out.println("Второй коммит");
         System.out.println("Третий коммит");
+        System.out.println("Четвертый коммит");
     }
 }
